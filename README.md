@@ -1,0 +1,2 @@
+# pyroject
+Daily Python projects
